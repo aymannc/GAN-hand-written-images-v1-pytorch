@@ -1,1 +1,1 @@
-"# GAN-hand-written-images-v1-pytorch"  git init
+Creating and training my first generative adversarial network (GAN) that can "generate" hand-written images of digits using PyTorc
